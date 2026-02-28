@@ -9,3 +9,4 @@ plotly
 shap
 matplotlib
 groq
+pyttsx3
