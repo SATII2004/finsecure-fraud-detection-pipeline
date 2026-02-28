@@ -1,0 +1,18 @@
+# Data & Models (Too large for GitHub)
+data/
+src/models/*.pkl
+venv/
+.streamlit/secrets.toml
+
+
+# Python
+__pycache__/
+*.py[cod]
+
+
+# Secrets (IMPORTANT)
+.streamlit/secrets.toml
+.env
+
+# OS
+.DS_Store
